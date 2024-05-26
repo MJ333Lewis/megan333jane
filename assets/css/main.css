@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #edf0f3;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #edf0f3;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #edf0f3;
 		}
 
 /* Image */
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #94bfdc;
 			color: #c8ece9;
 		}
 
@@ -2850,7 +2850,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #e9e9e9;
 			}
 
 			.wrapper.style1 label {
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #1b1e4c;
 			color: #d3d4e4;
 		}
 
@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: #505393;
+					background: #9599eb;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
